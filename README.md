@@ -23,7 +23,13 @@ From architecting 65+ network solutions to leading Hadoop cluster optimizations,
 
 --------
 ### 📊 **GitHub Stats**  
- 
+
+<div align="left">
+  <img height="133em" src="https://github-readme-stats.vercel.app/api?username=nimranoor99&show_icons=true&theme=radical"/>
+  <img height="133em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nimranoor99&layout=compact&theme=dark"/>
+  <img height="133em" src="https://streak-stats.demolab.com/?user=nimranoor99&theme=monokai"/>
+</div>
+
 
 --------
 ### 🛠️ **Technical & Domain Skills**  
@@ -61,7 +67,6 @@ From architecting 65+ network solutions to leading Hadoop cluster optimizations,
 - LinkedIn: [linkedin.com/in/nimranoor99](https://linkedin.com/in/nimranoor99)  
 - GitHub: [github.com/nimranoor99](https://github.com/nimranoor99)  
 
-Open to collaborations in **AI-driven infrastructure**, **network automation**, and **cloud security** solutions. Let's build the future of connectivity and make technology work smarter together!
-
+``Open to collaborations in **network automation, cloud security, or network performance improvement strategies!** Let’s build the future of connectivity.``
 
 ---
