@@ -25,9 +25,9 @@ From architecting 65+ network solutions to leading Hadoop cluster optimizations,
 ### 📊 **GitHub Stats**  
 
 <div align="left">
-  <img height="133em" src="https://github-readme-stats.vercel.app/api?username=nimranoor99&show_icons=true&theme=radical"/>
-  <img height="133em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nimranoor99&layout=compact&theme=dark"/>
-  <img height="133em" src="https://streak-stats.demolab.com/?user=nimranoor99&theme=monokai"/>
+  <img height="100em" src="https://github-readme-stats.vercel.app/api?username=nimranoor99&show_icons=true&theme=radical"/>
+  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nimranoor99&layout=compact&theme=dark"/>
+  <img height="100em" src="https://streak-stats.demolab.com/?user=nimranoor99&theme=monokai"/>
 </div>
 
 
