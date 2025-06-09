@@ -1,19 +1,43 @@
 **Hi there, I'm Nimra Noor!** 👋
 ---------
 **Lead Network Engineer | Python & Cloud Automation Specialist | 4G/5G Infrastructure Expert**  
+
+<div align="left">
+  <!-- Networking -->
+  <img src="https://simpleicons.org/icons/cisco.svg" height="50" alt="cisco logo" />
+  <img src="https://skillicons.dev/icons?i=aws" height="50" alt="aws logo" />
+  <img src="https://skillicons.dev/icons?i=azure" height="50" alt="azure logo" />
+  
+  <!-- Cloud & Automation -->
+  <img src="https://skillicons.dev/icons?i=py" height="50" alt="python logo" />
+  <img src="https://skillicons.dev/icons?i=ansible" height="50" alt="ansible logo" />
+  <img src="https://skillicons.dev/icons?i=docker" height="50" alt="docker logo" />
+  <img src="https://skillicons.dev/icons?i=kubernetes" height="50" alt="kubernetes logo" />
+  <img src="https://skillicons.dev/icons?i=terraform" height="50" alt="terraform logo" />
+  
+  <!-- Security -->
+  <img src="https://simpleicons.org/icons/paloaltonetworks.svg" height="40" alt="palo alto logo" />
+  <img src="https://simpleicons.org/icons/symantec.svg" height="50" alt="symantec logo" />
+  
+  <!-- Data & Monitoring -->
+  <img src="https://skillicons.dev/icons?i=postgresql" height="50" alt="postgresql logo" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="mysql logo" />
+  <img src="https://skillicons.dev/icons?i=prometheus" height="50" alt="prometheus logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="50" alt="ansible logo" />
+ 
+  <!-- System -->
+  <img src="https://skillicons.dev/icons?i=linux" height="50" alt="linux logo" />
+  <img src="https://skillicons.dev/icons?i=bash" height="50" alt="bash logo" />
+  <img src="https://skillicons.dev/icons?i=redhat" height="50" alt="redhat logo" />
+</div>
+<be><br>
 <div align="left" style="border: 1px solid #586069; border-radius: 6px; padding: 15px; margin: 20px 0; background-color: #f6f8fa;">
 
-✨ **My Approach** ✨  
-    
-*" I transform complex network environments into high-efficiency, resilient systems by merging cutting-edge automation with robust infrastructure design. My work at Huawei has been defined by driving 95% network efficiency gains, slashing operational costs by 35%, and ensuring 99.99% uptime—proving that technology thrives when precision meets innovation."*
-    
+I’m a Network Engineer based in Pakistan, specializing in security and automation. My mission is to revolutionize networks, making them smarter, more efficient, and resilient through automation, optimized resource utilization, and proactive risk reduction.
 </div>
 
 --------
-### 🚀 **Profile**  
-From architecting 65+ network solutions to leading Hadoop cluster optimizations, I bridge the gap between infrastructure and automation. My toolkit spans **Python scripting, Ansible, AWS/Azure cloud networking, VPNs (IPsec/SSL), and SIEM tools**—all wielded to solve real-world problems like latency reduction (70%), security risks (50% mitigation), and data accuracy (99.9%). I also mentor teams (15+ engineers) and champion **AI-driven network digitization** to future-proof systems.  
 
---------
 
 ### 🏆 **Key Strengths & Focus**  
 - **Network Automation:** Reduced Huawei’s operational costs by 35% via Python scripts for MAE data integrity and Power BI reporting.  
@@ -62,11 +86,16 @@ From architecting 65+ network solutions to leading Hadoop cluster optimizations,
 - Advocate for women in STEM and open-source networking tools.  
 
 ------------
-### 📫 **Connect With Me**  
-- Email: [nimranoor584@gmail.com](mailto:nimranoor584@gmail.com)  
-- LinkedIn: [linkedin.com/in/nimranoor99](https://linkedin.com/in/nimranoor99)  
-- GitHub: [github.com/nimranoor99](https://github.com/nimranoor99)  
+###  Where to Find Me  
+[<img src="https://skillicons.dev/icons?i=github" width="60" alt="GitHub">](https://github.com/nimranoor99)
+[<img src="https://skillicons.dev/icons?i=twitter" width="60" alt="Twitter">](https://twitter.com/yourhandle)
+[<img src="https://skillicons.dev/icons?i=linkedin" width="60" alt="LinkedIn">](https://linkedin.com/in/nimranoor99)
+[<img src="https://skillicons.dev/icons?i=medium" width="60" alt="Medium">](https://medium.com/@yourhandle)
 
-``Open to collaborations in **network automation, cloud security, or network performance improvement strategies!** Let’s build the future of connectivity.``
+``Open to collaborations in ** network automation, cloud security, or network performance improvement strategies!** Let’s build the future of connectivity.``
+
+<div align="left">
+  <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
 
 ---
