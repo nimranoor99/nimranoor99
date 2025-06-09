@@ -92,10 +92,8 @@ I’m a Network Engineer based in Pakistan, specializing in security and automat
 [<img src="https://skillicons.dev/icons?i=linkedin" width="60" alt="LinkedIn">](https://linkedin.com/in/nimranoor99)
 [<img src="https://skillicons.dev/icons?i=medium" width="60" alt="Medium">](https://medium.com/@yourhandle)
 
-``Open to collaborations in ** network automation, cloud security, or network performance improvement strategies!** Let’s build the future of connectivity.``
-
 <div align="left">
-  <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=nimranoor99&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
 ---
