@@ -14,7 +14,7 @@
   <img src="https://skillicons.dev/icons?i=docker" height="50" alt="docker logo" />
   <img src="https://skillicons.dev/icons?i=kubernetes" height="50" alt="kubernetes logo" />
   <img src="https://skillicons.dev/icons?i=terraform" height="50" alt="terraform logo" />
-  
+  <img src="https://skillicons.dev/icons?i=wireshark" height="50" alt="wireshark logo" />
   <!-- Security -->
   <img src="https://simpleicons.org/icons/paloaltonetworks.svg" height="40" alt="palo alto logo" />
   <img src="https://simpleicons.org/icons/symantec.svg" height="50" alt="symantec logo" />
